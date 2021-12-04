@@ -1,5 +1,5 @@
 # BusPe
-Submission for FTX Hackathon
+Submission for FTX Hackathon by Johny Samuael, Saket Kattuboina, Aditya Katti and Neil Bagewadi
 ## Secure Pay on the go
 
 - Paying with cash to buy tickets on the bus is a hassle for most people these days.
